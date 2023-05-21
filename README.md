@@ -23,12 +23,11 @@ To run this project locally, follow these steps:
    ```npm install```
 4. download the data set https://www.kaggle.com/datasets/khalidryder777/500k-chatgpt-tweets-jan-mar-2023  and re-name it with  “tweetsData.csv“ (keep tweetsData.csv in the root folder of the project )
 
-## To start the project, run the following command:
-```npm run start```
+5. To start the project, run the following command: ```npm run start```
 
-The project will start on port 3005. You can access it in your browser using the URL http://localhost:3005.
+ ( The project will start on port 3005. You can access it in your browser using the URL http://localhost:3005 )
 
-To checck if the server is up open http://localhost:3005/gettagclouds you should see a json.
+6. To checck if the server is up open http://localhost:3005/gettagclouds you should see a json.
 
 ## Testing
 To run the tests for this project, execute the following command:
