@@ -21,6 +21,7 @@ To run this project locally, follow these steps:
 3. Run the following command to install the project dependencies:
 
    ```npm install```
+4. download the data set https://www.kaggle.com/datasets/khalidryder777/500k-chatgpt-tweets-jan-mar-2023  and re-name it with  “tweetsData.csv“ (keep tweetsData.csv in the root folder of the project )
 
 ## To start the project, run the following command:
 ```npm run start```
